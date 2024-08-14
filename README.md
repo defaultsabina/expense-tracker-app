@@ -21,4 +21,4 @@ Create an amazing Expense tracker app using React.js 🚀
 3. If the user visits the page for the first time, then display a **modal window** where the user will enter the initial balance. After that, the user will start using the application with the specified balance.
 
 ---
-<img src="expense.png"/>
+<img src="./expense.png"/>
