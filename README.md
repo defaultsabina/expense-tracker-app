@@ -4,7 +4,7 @@
 
 ## Demos
 
-- [EXPENSE TRACKER APP]((https://defaultsabina.github.io/expense-tracker-app/))
+- [EXPENSE TRACKER APP]((https://defaultsabina.github.io/expense-tracker-app))
 
 
 Create an amazing Expense tracker app using React.js 🚀
