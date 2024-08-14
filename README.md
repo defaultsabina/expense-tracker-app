@@ -1,9 +1,6 @@
 # Expense Tracker 💰
 
-### Task 🎯🎯
-
-## Demos
-
+## Demo 🎯
 [EXPENSE TRACKER APP](https://defaultsabina.github.io/expense-tracker-app)
 
 
