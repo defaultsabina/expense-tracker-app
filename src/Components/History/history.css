@@ -1,0 +1,42 @@
+.history-part{
+    display: flex;
+    flex-direction: row;
+    justify-content: center; 
+     
+  }
+  .my-income, .my-expense{
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 70%;
+    padding: 0 15px 0 15px;
+    box-shadow: 7px 8px 11px -1px rgba(0,0,0,0.75);
+-webkit-box-shadow: 7px 8px 11px -1px rgba(0,0,0,0.75);
+-moz-box-shadow: 7px 8px 11px -1px rgba(0,0,0,0.75);
+
+  }
+  .my-income{
+    border-right: 7px solid rgb(35, 207, 35);
+
+  }
+  .hide {
+    visibility:hidden;
+    position: absolute;
+    left:-40px;
+    top: 7px;
+    font-size: 20px;
+    border: 1px solid red;
+    padding: 5px 10px 5px 10px;
+    color:white;
+    background-color:rgba(255, 0, 0, 0.418);
+
+  }
+  .history-part:hover .hide{
+    visibility: visible;  
+  }
+  
+  .my-expense{
+    border-right: 7px solid rgb(238, 22, 22);
+
+  }

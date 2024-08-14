@@ -1,0 +1,32 @@
+.balance{
+    display: flex;
+    border: 1px solid black;
+    justify-content: center;
+    width: 70%;
+    padding: 0 15px 0 15px;
+    align-items: center;
+    padding: 0 15px 0 15px;
+    box-shadow: 7px 8px 11px -1px rgba(0,0,0,0.75);
+-webkit-box-shadow: 7px 8px 11px -1px rgba(0,0,0,0.75);
+-moz-box-shadow: 7px 8px 11px -1px rgba(0,0,0,0.75);
+    
+}
+.income, .expense{
+    display: flex;
+    width: 50%;
+    flex-direction: column;
+    align-items: center;
+}
+.income{
+    border-right: 1px solid black;
+}
+.income p{
+    color:rgb(32, 226, 32);
+    font-weight: 600;
+
+}
+.expense p{
+    color:rgb(226, 77, 32);
+    font-weight: 600;
+
+}
