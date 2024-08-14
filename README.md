@@ -7,7 +7,7 @@
 Create an amazing Expense tracker app using React.js 🚀
 
 #### Mandatory tasks:
-1. My app has 3 component: 
+1. The app has 3 component: 
   - ***Balance*** - which will display *total balance*, *incomes* and *expenses*.
   - ***History*** - which will display List of your *incomes* and *expenses*.
   - ***Transaction*** - form where you can add a new transaction.
